@@ -2,7 +2,11 @@
 
 #### 基于 Vue 框架实现
 
-[客户管理系统数据库](https://)
+[客户管理系统数据库](https://github.com/SEVLT/db-customer-management-system)
+
+### 效果预览
+
+![效果预览](https://i.loli.net/2020/06/16/1Z9rGAcoKWV8BO4.png)
 
 ### CSS 框架
 
